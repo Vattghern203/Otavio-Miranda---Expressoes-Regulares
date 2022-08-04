@@ -4,7 +4,6 @@
 # . = Qualquer caractere (com exceçãp da quebra de linha).
 # [] = Conjunto de caracteres.
 
-
 import re
 
 texto = '''
